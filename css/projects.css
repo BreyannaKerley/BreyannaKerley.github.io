@@ -1,0 +1,19 @@
+#projects {
+    font-size: 30pt;
+}
+
+.container {
+   align-content: center;
+    position: relative;
+    padding: 1em; 
+    /* /* width: inherit; */
+    /* margin-bottom: 4vh; */
+}
+
+.row {
+    margin-bottom: 2em;
+
+
+}
+
+

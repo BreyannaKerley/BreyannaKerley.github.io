@@ -1,0 +1,13 @@
+.jumbotron {
+    background: url('../assets/lemons.jpeg') right; /*this is shorthand instead of doing background-position*/
+    background-size: cover;
+    height: 80vh;
+    color: white;
+}
+
+.display-4 {
+    position: relative;
+    text-align: center;
+    top: 5em;
+    font-family: ubuntu;
+}
