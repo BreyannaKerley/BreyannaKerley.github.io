@@ -1,12 +1,15 @@
 .navbar {
     position: fixed;
-    background-color: transparent;
+    width: 100%;
+    background-color: white;
+    z-index: 99999;
 }
 
 .navbar-brand {
-    font-family: var(--font-one);
-    font-size: 24pt;
-    background-color: transparent;
+    font-family: 
+    font-size: 20pt;
+    background-color: white;
+    z-index: 99999;
 }
 
 /* .collapse {
